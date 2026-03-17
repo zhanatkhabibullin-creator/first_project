@@ -1,0 +1,3 @@
+*.log
+logs/*
+!rare.critical_logs.log
